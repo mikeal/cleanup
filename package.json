@@ -1,0 +1,25 @@
+{
+  "name": "cleanup",
+  "version": "0.0.1",
+  "description": "Cleanup handling for domains.",
+  "main": "index.js",
+  "dependencies": {
+    "once": "~1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/cleanup"
+  },
+  "keywords": [
+    "domains",
+    "tests",
+    "testing",
+    "cleanup"
+  ],
+  "author": "Mikeal Rogers",
+  "license": "BSD"
+}
