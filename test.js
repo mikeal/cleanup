@@ -15,8 +15,6 @@ var d = cleanup(function (error) {
 
 }, true)
 
-d.enter()
-
 process.nextTick(function () {
   throw new Error('YAH!')
 })

@@ -9,5 +9,6 @@ module.exports = function (cleanup, noOutput) {
     if (!noOutput) console.error(e.stack || e)
     d.cleanup(e)
   })
+  d.enter()
   return d
 }
