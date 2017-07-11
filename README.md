@@ -1,5 +1,7 @@
 ### Cleanup -- cleanup handlers for domains
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/cleanup.svg)](https://greenkeeper.io/)
+
 `npm install cleanup`
 
 ```
