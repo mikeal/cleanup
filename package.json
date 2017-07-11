@@ -4,7 +4,7 @@
   "description": "Cleanup handling for domains.",
   "main": "index.js",
   "dependencies": {
-    "once": "~1.1.1"
+    "once": "~1.4.0"
   },
   "devDependencies": {},
   "scripts": {
